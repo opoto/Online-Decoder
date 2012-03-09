@@ -1,7 +1,7 @@
-Simple online tool to decode and format encoded messages.
+﻿Simple online tool to decode and format encoded messages.
 It can combine different decoder: url decoding, base64, and zlib inflate.
 It also includes an optional XML highlighting formatter.
 
 See it live on http://olivier.potonniee.free.fr/decoder.php
 
-(c) Olivier Potonni�e 2012
+(c) Olivier Potonniée 2012
